@@ -1,6 +1,9 @@
 # Mood Music Matcher 🎵
 
-Mood Music Matcher is a web app that enhances your day by providing music that matches your mood. Integrated with Spotify, it offers seamless access to songs based on your emotional state.
+Mood Music Matcher is a web app that enhances your day by providing music that matches your mood. 
+Integrated with Spotify, it offers seamless access to songs based on your emotional state.
+
+![demo_1](Demo/demo1.gif)
 
 ## Features
 
