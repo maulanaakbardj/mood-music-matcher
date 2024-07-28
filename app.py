@@ -43,7 +43,7 @@ def get_songs_for_mood(mood):
     return [(track['name'], track['artists'][0]['name'], track['external_urls']['spotify']) for track in results['tracks']['items']]
 
 def explain_song_choice(mood, track_name, artist):
-    llm = OpenAI(temperature=0.7, openai_api_key=openai_api_key)
+    llm = OpenAI(temperature=0.2, openai_api_key=openai_api_key)
     explanation = llm(f"Explain why the song '{track_name}' by {artist} fits the mood '{mood}'")
     return explanation
 
