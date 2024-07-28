@@ -1,0 +1,6 @@
+streamlit
+openai
+spotipy
+langchain
+langchain_community
+langchain-core
