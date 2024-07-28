@@ -44,7 +44,7 @@ def get_songs_for_mood(mood):
 
 def explain_song_choice(mood, track_name, artist):
     llm = OpenAI(temperature=0.2, openai_api_key=openai_api_key)
-    explanation = llm(f"Explain why the song '{track_name}' by {artist} fits the mood '{mood}'")
+    explanation = llm(f"Explain why the song '{track_name}' by {artist} matches the mood '{mood}' based on its musical style and mood, without referring to the lyrics.")
     return explanation
 
 with st.form('journal_form'):
