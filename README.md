@@ -5,6 +5,8 @@ Integrated with Spotify, it offers seamless access to songs based on your emotio
 
 ![demo_1](Demo/demo1.gif)
 
+Learn more about the development process in our blog post: [Building an AI-Powered Mood Music Matcher
+](https://maulcenter.hashnode.dev/building-an-ai-powered-mood-music-matcher).
 ## Features
 
 - **Personalized Recommendations**: Get songs based on your feelings.
