@@ -44,7 +44,8 @@ Ensure you have Python installed. Then run:
    streamlit run app.py
 
 ## License
-This project is licensed under the MIT License.
+For detailed licensing information, please refer to the [LICENSE file](LICENSE).
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
