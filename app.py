@@ -8,7 +8,7 @@ st.set_page_config(page_title="Mood Music Matcher", page_icon="🎵", layout="wi
 
 st.title('Mood Music Matcher 🎵')
 
-openai_api_key = st.sidebar.text_input('OpenAI API Key', type='password')
+openai_api_key = os.getenv("OPEN_AI_KEY")
 spotify_client_id = os.getenv("SPOTIFY_CLIENT_ID")
 spotify_client_secret = os.getenv("SPOTIFY_CLIENT_SECRET")
 
