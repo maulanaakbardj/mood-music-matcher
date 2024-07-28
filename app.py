@@ -26,7 +26,7 @@ st.sidebar.markdown(
     1. **Enter Your Journal Entry**: Share your day or thoughts.
     2. **Analyze Mood**: The app uses AI to determine your mood.
     3. **Get Music Suggestions**: Discover songs that resonate with you.
-    4. **Listen and Enjoy**: Click to enjoy your playlist through Spotify.
+    4. **Listen and Enjoy**: Click the link to be automatically directed to Spotify and play the song.
     """
 )
 
