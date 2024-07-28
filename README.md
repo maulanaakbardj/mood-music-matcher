@@ -40,4 +40,3 @@ Ensure you have Python installed. Then run:
    ```bash
    streamlit run app.py
 
-
