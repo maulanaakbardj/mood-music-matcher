@@ -25,7 +25,7 @@ Learn more about the development process in our blog post: [Building an AI-Power
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/mood-music-matcher.git
+   git clone https://github.com/maulanaakbardj/mood-music-matcher.git
    cd mood-music-matcher
 
 2. **Install Dependencies**
